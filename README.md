@@ -1,6 +1,6 @@
 # cubit_example
 
-A new Flutter project.
+A new Flutter project with BLoC and Cubit.
 
 ## Getting Started
 
